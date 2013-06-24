@@ -13,7 +13,7 @@ $autoload['libraries'] = array('layout');
 
 # Configuration
 
-You can change the base template in the 'layout' config. It uses base as the default template. You can have multiple base template for different layout.
+You can change the base template in the 'layout' config. It uses base as the default template. You can have multiple base templates for different layout using this layout/template.
 
 ```php
 $config['template_base']  = 'base';
